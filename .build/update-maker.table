@@ -1,0 +1,5 @@
+{
+updateUrl="https://raw.githubusercontent.com/winXray/winXray/master/release/update/";
+description="发布 v2.0，优化代码 + 兼容 VMessAEAD / VLESS  分享链接官方提案 XTLS/Xray-core#91";
+outputDir="/release/update/"
+}
